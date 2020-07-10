@@ -19,3 +19,15 @@ I ran into a lot of problems, but I was luckily able to fix them in time. Some o
 # What I learned
 
 I learned a lot about machine learning in total. There was not much information on the internet on how to implement this into an app, so I had to learn it from scratch. I also learned about the programming language swift, as I had never done anything related to machine learning with it. 
+
+# Categorys Competing In
+Best Impact, Best Original, Most Practical/Scaleable, Best Design, Best Overall
+
+# How To Run
+Since my app is not on the app store yet, you need to download the source code and run it in Xcode.
+
+# Greeting To The Judges
+Hello judges! My name is Navadeep Budda, I am a 12 year old coder and this is my app Compostly. Hope you enjoy it!
+
+# Link
+https://www.youtube.com/watch?v=_YsHPy32sDw
